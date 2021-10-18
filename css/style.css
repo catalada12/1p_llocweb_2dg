@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;   
+   }
+   
+   header{
+       padding: 40px;
+       margin-bottom: 20px;
+       background-color: rgb(14, 28, 29);
+   }
+   nav{
+       background-color: rgb(228, 61, 0);
+   }
+   main{
+       background-color: rgb(164, 94, 255);
+   }
